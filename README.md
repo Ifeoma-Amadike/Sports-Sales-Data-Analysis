@@ -1,5 +1,7 @@
 # Sports Sales Data Analysis
 ## By Ifeoma Amadike
+---
+![](Images/sports_sale_logo.png)
 
 ---
 # INTRODUCTION
