@@ -28,5 +28,14 @@ This is a classroom project, The dataset was provided by our instructors
 * Used complex excel formulas to clean and analyze data
 * i created Kpi for my dashboard
 * Used Pivot tables and slicers to create a dynamic dashboard
-
+---
+## ANALYSIS & VISUALIZATIONS
+---
+* This analysis includes the Table page, Calculation Page, and Dashboard page.
+* From the dashboard, we can see that:
+* Accessories is the most popular product in the United States.
+* There are 57,755 male customers and 54,177 female customers.
+* Tires and Tubes is the product with the highest ordered volume.
+* Road 650 Red 58 Bikes is the product with the highest revenue.
+* Australia is the country with the highest revenue, while Canada is the country with the least revenue.
 
